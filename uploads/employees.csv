@@ -1,0 +1,21 @@
+id, name, designation, basicSalary, hra, allowances, deductions, grossSalary,netSalary, month
+10, John Doe, Software Engineer,50000,10000,5000,2000,,,2025-07
+12, Jane Smith, Project Manager,60000,12000,6000,2500,,,2025-07
+13, Bob Johnson, QA Analyst,45000,9000,4000,1500,,,2025-07
+14, Alice Williams, UI/UX Designer,55000,11000,4500,1800,,,2025-07
+15, Michael Brown, Backend Developer,52000,10400,5200,2200,,,2025-07
+16, Emily Davis, HR Manager,48000,9600,4000,1800,,,2025-07
+17, David Wilson, DevOps Engineer,65000,13000,6000,3000,,,2025-07
+18, Sophia Martinez, Business Analyst,47000,9400,4200,1700,,,2025-07
+19, Daniel Taylor, Database Administrator,58000,11600,5000,2400,,,2025-07
+20, Olivia Anderson, Frontend Developer,51000,10200,4800,2000,,,2025-07
+21, Matthew Thomas, Cloud Architect,72000,14400,6500,3500,,,2025-07
+22, Ava Jackson, Content Writer,40000,8000,3500,1500,,,2025-07
+23, James White, Tech Lead,70000,14000,7000,3200,,,2025-07
+24, Isabella Harris, Marketing Executive,42000,8400,3700,1600,,,2025-07
+25, Benjamin Martin, System Analyst,53000,10600,5100,2100,,,2025-07
+26, Mia Thompson, Graphic Designer,46000,9200,3900,1700,,,2025-07
+27, Lucas Garcia, Security Specialist,60000,12000,5500,2500,,,2025-07
+28, Amelia Clark, Recruiter,41000,8200,3600,1500,,,2025-07
+29, Ethan Lewis, Data Scientist,75000,15000,6800,4000,,,2025-07
+
